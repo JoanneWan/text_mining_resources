@@ -254,8 +254,8 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 - [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
-- [Create a banking chatbot] (https://github.com/IBM/watson-banking-chatbot): Create a banking chatbot with FAQ discovery, anger detection and natural language understanding
-- [Simple Chatbot in Python(NLTK)]（https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e): Building a Simple Chatbot from Scratch in Python(using NLTK)
+- [Create a banking chatbot](https://github.com/IBM/watson-banking-chatbot): Create a banking chatbot with FAQ discovery, anger detection and natural language understanding
+- [Simple Chatbot in Python(NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e): Building a Simple Chatbot from Scratch in Python(using NLTK)
 
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
